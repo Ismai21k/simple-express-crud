@@ -1,5 +1,3 @@
-// 1. Setting up the API
-
 // Import necessary libraries
 import express from 'express';
 import bodyParser from 'body-parser';
@@ -121,5 +119,3 @@ app.listen(port, () => {
     console.log(`Server running at http://localhost:${port}`);
 });
 
-
-//and also create a simple readMe file expaining how to run the APIs
